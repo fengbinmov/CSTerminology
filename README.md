@@ -7,3 +7,15 @@
 | en      |    zh_CN | pos  |description |
 | :-----: | :---------:| :---: |:--------------:|
 |...         |...               |...     |...                      |
+
+
+
+computerese.xlsx
+
+## 表头格式（可用于彩云小译）
+
+| source | target | trans_type  | tag          | case_sensitive |
+| ------ | ------ | ----------- | ------------ | -------------- |
+| 原文   | 译文   | 翻译方向    | 词性         | 是否区分大小写 |
+| ...    | ...    | en2zh/zh2en | noun/per/loc | true/false     |
+
